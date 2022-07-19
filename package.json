@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-fccc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-intro.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmmaVZ89/NodeJs-FCCC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmmaVZ89/NodeJs-FCCC/issues"
+  },
+  "homepage": "https://github.com/EmmaVZ89/NodeJs-FCCC#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
